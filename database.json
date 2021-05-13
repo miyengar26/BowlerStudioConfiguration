@@ -1,4 +1,10 @@
 {
+  "workspace": {
+    "https://github.com/WPIRoboticsEngineering/RBELabCustomParts.git": [
+      "WPIRoboticsEngineering/RBELabCustomParts",
+      "1620940354946"
+    ]
+  },
   "studio-open-web": {},
   "BowlerStudioConfigs": {
     "fontsize": 12.0,
