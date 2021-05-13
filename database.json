@@ -1,12 +1,12 @@
 {
   "workspace": {
-    "https://github.com/WPIRoboticsEngineering/RBELabCustomParts.git": [
-      "WPIRoboticsEngineering/RBELabCustomParts",
-      "1620940354946"
-    ],
     "https://github.com/RBE200x-lab/2002_LabTeam_04.git": [
       "RBE200x-lab/2002_LabTeam_04",
       "1620942524480"
+    ],
+    "https://github.com/WPIRoboticsEngineering/RBELabCustomParts.git": [
+      "WPIRoboticsEngineering/RBELabCustomParts",
+      "1620942576652"
     ]
   },
   "studio-open-web": {},
